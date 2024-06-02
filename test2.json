@@ -1,0 +1,20 @@
+[
+         { 
+ "id"  :"0"  ,
+"name"  : "JohnSmith","birthdate"  : " ", 
+
+"knowsCpp":true
+ }  , 
+ { 
+"id"  : "1"  ,
+"name"  : "JaneSmith"  ,
+"birthdate"  : "1981-02-02",
+"knowsCpp":false
+ }  , 
+ { 
+"id"  : "2"  ,
+"name"  : "John Doe"  ,
+"birthdate"  : "1982-03-03",
+"knowsCpp":null
+ } 
+]
